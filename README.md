@@ -1,4 +1,4 @@
-Camera tracks player but stops when too close to bounds of the tilemap, however it is decting the bounds from too far away
+Camera tracks player but stops when too close to bounds of the tilemap, however it is detecting the bounds from too far away
 I've tried setting the rendering quadrant size of the tilemap to higher and lower pixel counts and it seems to fix it at 128+ but that doesn't seem to be a practicable solution
 
 I've been following this nice tutorial to the letter and I don't have enough coding knowledge to understand what has gone awry
